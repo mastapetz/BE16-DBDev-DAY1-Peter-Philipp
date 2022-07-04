@@ -146,7 +146,7 @@
             <root>
                 <mxCell id="H7DWUn0vDwxtsgN2xfW3-0"/>
                 <mxCell id="H7DWUn0vDwxtsgN2xfW3-1" parent="H7DWUn0vDwxtsgN2xfW3-0"/>
-                <mxCell id="D67o8UtpvSMQAMpsR08U-0" style="edgeStyle=none;html=1;endArrow=ERmany;endFill=0;startArrow=ERone;startFill=0;" edge="1" parent="H7DWUn0vDwxtsgN2xfW3-1" source="D67o8UtpvSMQAMpsR08U-1" target="D67o8UtpvSMQAMpsR08U-14">
+                <mxCell id="D67o8UtpvSMQAMpsR08U-0" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=ERmany;endFill=0;startArrow=ERone;startFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="H7DWUn0vDwxtsgN2xfW3-1" source="D67o8UtpvSMQAMpsR08U-2" target="D67o8UtpvSMQAMpsR08U-18">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="D67o8UtpvSMQAMpsR08U-1" value="Customer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="H7DWUn0vDwxtsgN2xfW3-1">
@@ -227,7 +227,7 @@
                 <mxCell id="D67o8UtpvSMQAMpsR08U-25" value="+ timeRemaining: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="D67o8UtpvSMQAMpsR08U-19">
                     <mxGeometry y="150" width="140" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="D67o8UtpvSMQAMpsR08U-23" value="" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="H7DWUn0vDwxtsgN2xfW3-1" source="D67o8UtpvSMQAMpsR08U-21" target="D67o8UtpvSMQAMpsR08U-14">
+                <mxCell id="D67o8UtpvSMQAMpsR08U-23" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="H7DWUn0vDwxtsgN2xfW3-1" source="D67o8UtpvSMQAMpsR08U-20" target="D67o8UtpvSMQAMpsR08U-17">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
             </root>

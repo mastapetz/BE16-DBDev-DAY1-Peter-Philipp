@@ -220,10 +220,10 @@
                 <mxCell id="D67o8UtpvSMQAMpsR08U-25" value="+ fk_city_id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontStyle=2" parent="D67o8UtpvSMQAMpsR08U-19" vertex="1">
                     <mxGeometry y="120" width="130" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="dS7gG06pIL7E628DNN96-1" style="edgeStyle=none;html=1;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" edge="1" parent="H7DWUn0vDwxtsgN2xfW3-1" source="-x5kEt4TQjW8k059a6kW-21" target="D67o8UtpvSMQAMpsR08U-12">
+                <mxCell id="dS7gG06pIL7E628DNN96-1" style="edgeStyle=orthogonalEdgeStyle;html=1;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="H7DWUn0vDwxtsgN2xfW3-1" source="dS7gG06pIL7E628DNN96-0" target="D67o8UtpvSMQAMpsR08U-13">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="dS7gG06pIL7E628DNN96-2" value="" style="edgeStyle=none;html=1;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" edge="1" parent="H7DWUn0vDwxtsgN2xfW3-1" source="-x5kEt4TQjW8k059a6kW-21" target="D67o8UtpvSMQAMpsR08U-22">
+                <mxCell id="dS7gG06pIL7E628DNN96-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="H7DWUn0vDwxtsgN2xfW3-1" source="-x5kEt4TQjW8k059a6kW-25" target="D67o8UtpvSMQAMpsR08U-20">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="-x5kEt4TQjW8k059a6kW-21" value="Bus Stop (StationToRoute)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="H7DWUn0vDwxtsgN2xfW3-1">
