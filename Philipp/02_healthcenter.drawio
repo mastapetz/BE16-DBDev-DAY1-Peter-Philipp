@@ -23,7 +23,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="15UR6XnbTtkx_rhGs56_" name="ER">
-        <mxGraphModel dx="945" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="610" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="2u_GgeGQWRgM_z2mmB_E-0"/>
                 <mxCell id="2u_GgeGQWRgM_z2mmB_E-1" parent="2u_GgeGQWRgM_z2mmB_E-0"/>
@@ -136,7 +136,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="g17sYoDOzrbhVf1pqz28" name="UML">
-        <mxGraphModel dx="945" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="675" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="H7DWUn0vDwxtsgN2xfW3-0"/>
                 <mxCell id="H7DWUn0vDwxtsgN2xfW3-1" parent="H7DWUn0vDwxtsgN2xfW3-0"/>
